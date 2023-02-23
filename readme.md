@@ -55,5 +55,5 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Source :
-- Deployed URL: 
+- Deployed URL: https://jeremy-fong.github.io/random-password-generator/
 - GitHub Link: https://github.com/jeremy-fong/random-password-generator
